@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:17:58.221Z",
+  "generated_at": "2026-10-20T04:55:48.768Z",
   "items": {
     "math:129": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0129-perceptron-convergence-bound",
       "first_solved_at": "2026-10-20T04:17:54.170Z",
       "last_pushed_at": "2026-10-20T04:17:54.170Z"
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-10-20T04:55:48.175Z",
+      "last_pushed_at": "2026-10-20T04:55:48.175Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
